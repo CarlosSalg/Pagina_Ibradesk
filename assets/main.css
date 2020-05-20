@@ -80,18 +80,18 @@ textarea {
 
 .contenedor-imagen-2 {
     display: inline-block;
-    background-image: url(../img/index/aplicaciones.jpg);
+    background-image: url(../img/workstation-336369_1280.jpg);
     background-position: center center;
     background-size: cover;
     height: 35vh;
     min-height: 90px;
     width: 100%;
-    opacity: 10%;
+    opacity: 100%;
 }
 
 .contenedor-imagen-2 .contenedor-main-2 {
     position: relative;
-    top: 1em;
+    top: 4em;
 }
 
 .contenedor-main h1 {
